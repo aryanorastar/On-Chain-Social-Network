@@ -62,7 +62,7 @@ npm run dev
 
 * Aman Kumar Manjhi
 * Arnav Jhalani
-* Aryan Gupta — [GitHub](https://github.com/aryanorastar) | [LinkedIn](https://www.linkedin.com/in/aryan-gupta007/)
+* Aryan Gupta
 
 ---
 
