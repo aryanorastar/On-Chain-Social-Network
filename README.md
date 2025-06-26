@@ -12,7 +12,7 @@ This project aims to eliminate centralized control from social networking by all
 
 ---
 
-## 🧱 Built With
+## 🧱 Built With (To be updated)
 - **Frontend**: React / Next.js, Tailwind CSS
 - **Blockchain Platform**: Internet Computer Protocol (ICP)
 - **Smart Contracts**: Motoko / Rust
